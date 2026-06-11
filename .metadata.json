@@ -1,0 +1,16 @@
+{
+  "assetType": "skill",
+  "name": "enterprise-ai-transformation",
+  "displayName": "企业AI转型技能包",
+  "semver": "1.0.0",
+  "description": "基于Ramp全员AI转型实践的企业AI转型技能包，涵盖文化驱动、四级能力模型、快速迭代、辐射型组织架构、零门槛工具平台、技能市场、排行榜驱动、拆掉障碍、非工程师赋能等九大核心技能。适用于希望推动AI转型的企业管理者和团队负责人。",
+  "author": "22812",
+  "tags": [
+    "enterprise",
+    "ai-transformation",
+    "organizational-change",
+    "culture-building",
+    "talent-development",
+    "productivity"
+  ]
+}
