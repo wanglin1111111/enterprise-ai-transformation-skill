@@ -1,8 +1,8 @@
----
-name: enterprise-ai-transformation
+﻿---
+name: 企业AI转型技能包
 description: "基于Ramp全员AI转型实践的企业AI转型技能包，涵盖文化驱动、能力模型、组织架构等九大核心技能"
 version: 1.0.0
-author: "AI Skill Extractor"
+author: wanglin1111111
 tags: ["企业转型", "AI文化", "组织变革", "能力提升"]
 ---
 
